@@ -1,9 +1,9 @@
 # LDA
-Here’s a **README** file for your code:
 
 
 
-# IMDB Movie Reviews Topic Modeling
+
+## IMDB Movie Reviews Topic Modeling
 
 ## Overview:
 This project uses the **IMDB Movie Reviews Dataset** to extract hidden topics from movie reviews. The script preprocesses the reviews using tokenization, stopword removal, and stemming. Then, it applies **Latent Dirichlet Allocation (LDA)** to identify and display the key topics from the dataset.
