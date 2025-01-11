@@ -52,7 +52,7 @@ pip install pandas nltk gensim
    - Displays the topics with the top words for each one.
 
 ## Output:
-- The script outputs 0t09 topics, with the top words associated with each topic. For example:
+- The script outputs 20 topics, with the top words associated with each topic. For example:
   ```
   Topic: 0
   Words: 0.034*"movie" + 0.022*"film" + 0.018*"like" + 0.017*"time" + 0.014*"watch"
